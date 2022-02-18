@@ -1,0 +1,14 @@
+{
+    "name": "rpg-dice-roller-import-bug",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@dice-roller/rpg-dice-roller": "^5.1.0"
+    }
+}
